@@ -1,0 +1,9 @@
+@article{byra2020breast,
+  title={Breast mass segmentation in ultrasound with selective kernel U-Net convolutional neural network},
+  author={Byra, Michal and Jarosik, Piotr and Szubert, Aleksandra and Galperin, Michael and Ojeda-Fournier, Haydee and Olson, Linda and O’Boyle, Mary and Comstock, Christopher and Andre, Michael},
+  journal={Biomedical Signal Processing and Control},
+  volume={61},
+  pages={102027},
+  year={2020},
+  publisher={Elsevier}
+}
